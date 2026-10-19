@@ -107,6 +107,6 @@ A verificação de ciclos usa a estrutura **Union-Find** com duas otimizações:
 
 ## Autores
 
-- Nome 1
-- Nome 2
-- Nome 3
+- Thiago mattos 
+- Valentim aragão
+- Igor brasil
